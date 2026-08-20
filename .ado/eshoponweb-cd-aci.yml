@@ -1,7 +1,7 @@
 #NAME THE PIPELINE SAME AS FILE (WITHOUT ".yml")
 
 # trigger: none
-#test
+
 resources:
   pipelines:
   - pipeline: eshoponweb-ci-dockercompose
